@@ -13,7 +13,6 @@ df = spark \
 .option('inferSchema','True') \
 .csv('/databricks-datasets/airlines/part-00000')
 
-
 ***
 
 On **page xx** [Summary of error]:
