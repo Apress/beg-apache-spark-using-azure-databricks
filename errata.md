@@ -12,6 +12,7 @@ df = spark \
 .option('delimiter',',') \
 .option('inferSchema','True') \
 .csv('/databricks-datasets/airlines/part-00000')
+]
 
 ***
 
