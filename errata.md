@@ -2,7 +2,7 @@
 
 On **page 110** [code error]:
  
-Source code needs to have "\" at the tail end of all lines to run correctly.
+Source code needs to have a back slash at the tail end of all lines to run correctly.
 
 Code should read:
 %python
